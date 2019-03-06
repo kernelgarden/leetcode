@@ -115,9 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IntersectionOfTwoArrays.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RotateArray.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
+    <ClCompile Include="TwoSum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
